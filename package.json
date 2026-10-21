@@ -1,0 +1,26 @@
+{
+  "name": "price-list-automation",
+  "version": "1.0.0",
+  "description": "QA Automation exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Federico2399/price-list-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Federico2399/price-list-automation/issues"
+  },
+  "homepage": "https://github.com/Federico2399/price-list-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8"
+  }
+}
